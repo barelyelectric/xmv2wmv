@@ -1,6 +1,10 @@
 # Batch scripts for converting XMV to WMV and MP4
 -----------------------------------------------
 
+*Note*: Native .xmv audio skips quite badly in Windows VLC. Forcing ffmpeg to recalculate timestamps appears to fix that.
+
+---
+
 ### How to install ffmpeg in Windows (and add it to path) - https://phoenixnap.com/kb/ffmpeg-windows
 
 ---
